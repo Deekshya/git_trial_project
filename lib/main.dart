@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         body: Container(
-          child: Text('Git Trial Project'),
+          child: Text('Git Trial update  Project'),
         ),
       ),
     );
